@@ -4,7 +4,7 @@ Donate link: http://gecka-apps.com/
 Tags: internet explorer, warning, version, ie6, ie7, compatibility
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Display a configurable warning for some versions of Internet Explorer
 
@@ -32,5 +32,10 @@ e.g.
 
 == Changelog ==
 
+= 1.1 =
+* Compressed javascript file
+
 = 1.0 =
 * First version
+
+

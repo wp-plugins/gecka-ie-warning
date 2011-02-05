@@ -3,7 +3,7 @@
 Plugin Name: Gecka IE Warning
 Plugin URI: http://gecka-apps.com/wordpress-plugins/gecka-ie-warning
 Description: Implements the bgstretcher jquery script
-Version: 1.0
+Version: 1.1
 Author: Gecka
 Author URI: http://gecka-apps.com
 Licence: GPL2
