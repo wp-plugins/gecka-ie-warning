@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gecka Ie Warning\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-05 17:10+1100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Laurent Dinclaux <laurent@gecka-apps.com>\n"
+"Language-Team: Gecka <support@gecka-apps.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: France\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../gecka-ie-warning.class.php:24
+msgid "before IE7"
+msgstr "avant IE7"
+
+#: ../gecka-ie-warning.class.php:24
+msgid "before IE8"
+msgstr "avant IE8"
+
+#: ../gecka-ie-warning.class.php:25
+msgid "Never"
+msgstr "Jamais"
+
+#: ../gecka-ie-warning.class.php:25
+msgid "Always"
+msgstr "Toujours"
+
+#: ../gecka-ie-warning.class.php:25
+msgid "Every session"
+msgstr "Chaque session"
+
+#: ../gecka-ie-warning.class.php:25
+msgid "Once a day"
+msgstr "Une fois par jour"
+
+#: ../gecka-ie-warning.class.php:25
+msgid "Every 7 days"
+msgstr "Tous les 7 jours"
+
+#: ../gecka-ie-warning.class.php:25
+msgid "Every 30 days"
+msgstr "Tous les 30 jours"
+
+#: ../gecka-ie-warning.class.php:25
+msgid "Every year"
+msgstr "Chaque année"
+
+#: ../gecka-ie-warning.class.php:36
+msgid "IE Version Warnings"
+msgstr "Avertissement de version d'IE"
+
+#: ../gecka-ie-warning.class.php:40
+msgid "Warning display fequency"
+msgstr "Fréquence de l'affichqge de l'avertissement"
+
+#: ../gecka-ie-warning.class.php:41
+msgid "Show the warning for versions"
+msgstr "Afficher l'avertissement pour les versions"
+
+#: ../gecka-ie-warning.class.php:89
+msgid "Did you know that your Internet Explorer is out of date?"
+msgstr "Saviez-vous que votre version d'Internet Explorer est périmée?"
+
+#: ../gecka-ie-warning.class.php:90
+msgid "To get the best possible experience using our website we recommend that you upgrade to a newer version or other web browser. A list of the most popular web browsers can be found below."
+msgstr "Pour obtenir la meilleur expérience de navigation possible sur notre site web, nous vous recommandons de mettre à jour votre navigateur ou d'en choisir un autre. Une liste des navigateurs les plus populaires se trouve ci-dessous."
+
+#: ../gecka-ie-warning.class.php:91
+#, fuzzy
+msgid "Just click on the icons to get to the download page"
+msgstr "Il suffit de cliquer sur l'icône du navigateur correspondant pour se rendre à sa page de téléchargement."
+
+#: ../gecka-ie-warning.class.php:92
+msgid "Internet Explorer "
+msgstr "Internet explorer"
+
+#: ../gecka-ie-warning.class.php:93
+msgid "Firefox 3+"
+msgstr ""
+
+#: ../gecka-ie-warning.class.php:94
+msgid "Safari 3+"
+msgstr ""
+
+#: ../gecka-ie-warning.class.php:95
+msgid "Opera 9.5+"
+msgstr ""
+
+#: ../gecka-ie-warning.class.php:96
+msgid "Chrome 2.0+"
+msgstr ""
+
+#: ../gecka-ie-warning.class.php:97
+msgid "Close"
+msgstr "Fermer"
+
